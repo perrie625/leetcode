@@ -6,7 +6,7 @@
  * }
  */
 
-package main
+package codes
 
 import (
 	"testing"

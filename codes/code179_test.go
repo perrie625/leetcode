@@ -10,7 +10,7 @@
 // Output: "9534330"
 // Note: The result may be very large, so you need to return a string instead of an integer.
 
-package main
+package codes
 
 import (
 	"github.com/stretchr/testify/assert"

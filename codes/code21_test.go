@@ -5,7 +5,7 @@
  *     Next *ListNode
  * }
  */
-package main
+package codes
 
 import (
 	"testing"
